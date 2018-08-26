@@ -38,7 +38,7 @@ def normals(lib: Dict[CardinalDirections, Set[str]]):
             _normals[_syn] = cd
     return _normals
 
-
+# TODO: Don't put this here... put it in the CardinalDirections or elsewhere using getattr, setattr
 _NORMALS = normals({
     CardinalDirections.NORTH: {'north', 'n'},
     CardinalDirections.EAST: {'east', 'e'},

@@ -11,10 +11,9 @@ Creating a geocoding index from your GIS data?  Look in here.
 
 from collections import defaultdict
 from enum import Enum
-from typing import Any, Dict, Iterable
-from postal.expand import expand_address
+from typing import Any, Dict
 import usaddress
-from.normalizers import directionals
+from .normalizers import directionals, suffixes
 
 
 class AddressTypes(Enum):
@@ -125,9 +124,22 @@ DIRECTIONAL_DETAILS = {
     Details.SecondStreetNamePostDirectional
 }  #: a set of :py:class:`Details` values that indicate directions
 
+SUFFIX_DETAILS = {
+    Details.StreetNamePostType,
+    Details.SecondStreetNamePostType
+}  #: a set of :py:class:`Details` values that represent a street type suffix
 
-def is_directional(detail: Details):
+
+def is_directional(detail: Details) -> bool:
+    """
+    Test a :py:class:`Details` value to see if it indicates a cardinal
+    direction.
+    """
     return detail in DIRECTIONAL_DETAILS
+
+
+def is_suffix(detail: Details) -> bool:
+    return detail in SUFFIX_DETAILS
 
 
 class ParseResult:
@@ -158,20 +170,12 @@ class ParseResult:
 
     def __repr__(self):
         details = ','.join(
-            f'{k}={repr(v)}' for k, v in self._details.items()
+            f'{k}={repr(str(v))}' for k, v in self._details.items()
         )
         return str(
             f"{self.__class__.__name__}(address_type={self._address_type}, "
             f"{details})"
         )
-
-
-def expand(address: str) -> Iterable[str]:
-    expands = set()
-    for _expand in expand_address(address):
-        # TODO: Eliminate near-duplicates.
-        expands.add(_expand)
-    return expands
 
 
 def parse(address: str) -> ParseResult:
@@ -188,11 +192,18 @@ def parse(address: str) -> ParseResult:
         if is_directional(k)
     }
 
+    sfx_details = {
+        k: suffixes.normalize(v)
+        for k, v in details.items()
+        if is_suffix(k)
+    }
+
     return ParseResult(
         address_type=AddressTypes(_usaddress[1]),
         details={
             **details,
-            **dir_details
+            **dir_details,
+            **sfx_details
         }
     )
 

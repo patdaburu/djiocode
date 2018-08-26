@@ -1,0 +1,2358 @@
+{
+    "alley": {
+        "full": "alley",
+        "abbrev": {
+            "official": "aly",
+            "common": [
+                "aly",
+                "allee",
+                "alley",
+                "ally",
+                "aly"
+            ]
+        }
+    },
+    "anex": {
+        "full": "anex",
+        "abbrev": {
+            "official": "anx",
+            "common": [
+                "anx",
+                "anex",
+                "annex",
+                "annx",
+                "anx"
+            ]
+        }
+    },
+    "arcade": {
+        "full": "arcade",
+        "abbrev": {
+            "official": "arc",
+            "common": [
+                "arc",
+                "arc",
+                "arcade"
+            ]
+        }
+    },
+    "avenue": {
+        "full": "avenue",
+        "abbrev": {
+            "official": "ave",
+            "common": [
+                "ave",
+                "av",
+                "ave",
+                "aven",
+                "avenu",
+                "avenue",
+                "avn",
+                "avnue"
+            ]
+        }
+    },
+    "bayou": {
+        "full": "bayou",
+        "abbrev": {
+            "official": "byu",
+            "common": [
+                "byu",
+                "bayoo",
+                "bayou"
+            ]
+        }
+    },
+    "beach": {
+        "full": "beach",
+        "abbrev": {
+            "official": "bch",
+            "common": [
+                "bch",
+                "bch",
+                "beach"
+            ]
+        }
+    },
+    "bend": {
+        "full": "bend",
+        "abbrev": {
+            "official": "bnd",
+            "common": [
+                "bnd",
+                "bend",
+                "bnd"
+            ]
+        }
+    },
+    "bluff": {
+        "full": "bluff",
+        "abbrev": {
+            "official": "blf",
+            "common": [
+                "blf",
+                "blf",
+                "bluf",
+                "bluff"
+            ]
+        }
+    },
+    "bluffs": {
+        "full": "bluffs",
+        "abbrev": {
+            "official": "blfs",
+            "common": [
+                "blfs",
+                "bluffs"
+            ]
+        }
+    },
+    "bottom": {
+        "full": "bottom",
+        "abbrev": {
+            "official": "btm",
+            "common": [
+                "btm",
+                "bot",
+                "btm",
+                "bottm",
+                "bottom"
+            ]
+        }
+    },
+    "boulevard": {
+        "full": "boulevard",
+        "abbrev": {
+            "official": "blvd",
+            "common": [
+                "blvd",
+                "blvd",
+                "boul",
+                "boulevard",
+                "boulv"
+            ]
+        }
+    },
+    "branch": {
+        "full": "branch",
+        "abbrev": {
+            "official": "br",
+            "common": [
+                "br",
+                "br",
+                "brnch",
+                "branch"
+            ]
+        }
+    },
+    "bridge": {
+        "full": "bridge",
+        "abbrev": {
+            "official": "brg",
+            "common": [
+                "brg",
+                "brdge",
+                "brg",
+                "bridge"
+            ]
+        }
+    },
+    "brook": {
+        "full": "brook",
+        "abbrev": {
+            "official": "brk",
+            "common": [
+                "brk",
+                "brk",
+                "brook"
+            ]
+        }
+    },
+    "brooks": {
+        "full": "brooks",
+        "abbrev": {
+            "official": "brks",
+            "common": [
+                "brks",
+                "brooks"
+            ]
+        }
+    },
+    "burg": {
+        "full": "burg",
+        "abbrev": {
+            "official": "bg",
+            "common": [
+                "bg",
+                "burg"
+            ]
+        }
+    },
+    "burgs": {
+        "full": "burgs",
+        "abbrev": {
+            "official": "bgs",
+            "common": [
+                "bgs",
+                "burgs"
+            ]
+        }
+    },
+    "bypass": {
+        "full": "bypass",
+        "abbrev": {
+            "official": "byp",
+            "common": [
+                "byp",
+                "byp",
+                "bypa",
+                "bypas",
+                "bypass",
+                "byps"
+            ]
+        }
+    },
+    "camp": {
+        "full": "camp",
+        "abbrev": {
+            "official": "cp",
+            "common": [
+                "cp",
+                "camp",
+                "cp",
+                "cmp"
+            ]
+        }
+    },
+    "canyon": {
+        "full": "canyon",
+        "abbrev": {
+            "official": "cyn",
+            "common": [
+                "cyn",
+                "canyn",
+                "canyon",
+                "cnyn"
+            ]
+        }
+    },
+    "cape": {
+        "full": "cape",
+        "abbrev": {
+            "official": "cpe",
+            "common": [
+                "cpe",
+                "cape",
+                "cpe"
+            ]
+        }
+    },
+    "causeway": {
+        "full": "causeway",
+        "abbrev": {
+            "official": "cswy",
+            "common": [
+                "cswy",
+                "causeway",
+                "causwa",
+                "cswy"
+            ]
+        }
+    },
+    "center": {
+        "full": "center",
+        "abbrev": {
+            "official": "ctr",
+            "common": [
+                "ctr",
+                "cen",
+                "cent",
+                "center",
+                "centr",
+                "centre",
+                "cnter",
+                "cntr",
+                "ctr"
+            ]
+        }
+    },
+    "centers": {
+        "full": "centers",
+        "abbrev": {
+            "official": "ctrs",
+            "common": [
+                "ctrs",
+                "centers"
+            ]
+        }
+    },
+    "circle": {
+        "full": "circle",
+        "abbrev": {
+            "official": "cir",
+            "common": [
+                "cir",
+                "cir",
+                "circ",
+                "circl",
+                "circle",
+                "crcl",
+                "crcle"
+            ]
+        }
+    },
+    "circles": {
+        "full": "circles",
+        "abbrev": {
+            "official": "cirs",
+            "common": [
+                "cirs",
+                "circles"
+            ]
+        }
+    },
+    "cliff": {
+        "full": "cliff",
+        "abbrev": {
+            "official": "clf",
+            "common": [
+                "clf",
+                "clf",
+                "cliff"
+            ]
+        }
+    },
+    "cliffs": {
+        "full": "cliffs",
+        "abbrev": {
+            "official": "clfs",
+            "common": [
+                "clfs",
+                "clfs",
+                "cliffs"
+            ]
+        }
+    },
+    "club": {
+        "full": "club",
+        "abbrev": {
+            "official": "clb",
+            "common": [
+                "clb",
+                "clb",
+                "club"
+            ]
+        }
+    },
+    "common": {
+        "full": "common",
+        "abbrev": {
+            "official": "cmn",
+            "common": [
+                "cmn",
+                "common"
+            ]
+        }
+    },
+    "commons": {
+        "full": "commons",
+        "abbrev": {
+            "official": "cmns",
+            "common": [
+                "cmns",
+                "commons"
+            ]
+        }
+    },
+    "corner": {
+        "full": "corner",
+        "abbrev": {
+            "official": "cor",
+            "common": [
+                "cor",
+                "cor",
+                "corner"
+            ]
+        }
+    },
+    "corners": {
+        "full": "corners",
+        "abbrev": {
+            "official": "cors",
+            "common": [
+                "cors",
+                "corners",
+                "cors"
+            ]
+        }
+    },
+    "course": {
+        "full": "course",
+        "abbrev": {
+            "official": "crse",
+            "common": [
+                "crse",
+                "course",
+                "crse"
+            ]
+        }
+    },
+    "court": {
+        "full": "court",
+        "abbrev": {
+            "official": "ct",
+            "common": [
+                "ct",
+                "court",
+                "ct"
+            ]
+        }
+    },
+    "courts": {
+        "full": "courts",
+        "abbrev": {
+            "official": "cts",
+            "common": [
+                "cts",
+                "courts",
+                "cts"
+            ]
+        }
+    },
+    "cove": {
+        "full": "cove",
+        "abbrev": {
+            "official": "cv",
+            "common": [
+                "cv",
+                "cove",
+                "cv"
+            ]
+        }
+    },
+    "coves": {
+        "full": "coves",
+        "abbrev": {
+            "official": "cvs",
+            "common": [
+                "cvs",
+                "coves"
+            ]
+        }
+    },
+    "creek": {
+        "full": "creek",
+        "abbrev": {
+            "official": "crk",
+            "common": [
+                "crk",
+                "creek",
+                "crk"
+            ]
+        }
+    },
+    "crescent": {
+        "full": "crescent",
+        "abbrev": {
+            "official": "cres",
+            "common": [
+                "cres",
+                "crescent",
+                "cres",
+                "crsent",
+                "crsnt"
+            ]
+        }
+    },
+    "crest": {
+        "full": "crest",
+        "abbrev": {
+            "official": "crst",
+            "common": [
+                "crst",
+                "crest"
+            ]
+        }
+    },
+    "crossing": {
+        "full": "crossing",
+        "abbrev": {
+            "official": "xing",
+            "common": [
+                "xing",
+                "crossing",
+                "crssng",
+                "xing"
+            ]
+        }
+    },
+    "crossroad": {
+        "full": "crossroad",
+        "abbrev": {
+            "official": "xrd",
+            "common": [
+                "xrd",
+                "crossroad"
+            ]
+        }
+    },
+    "crossroads": {
+        "full": "crossroads",
+        "abbrev": {
+            "official": "xrds",
+            "common": [
+                "xrds",
+                "crossroads"
+            ]
+        }
+    },
+    "curve": {
+        "full": "curve",
+        "abbrev": {
+            "official": "curv",
+            "common": [
+                "curv",
+                "curve"
+            ]
+        }
+    },
+    "dale": {
+        "full": "dale",
+        "abbrev": {
+            "official": "dl",
+            "common": [
+                "dl",
+                "dale",
+                "dl"
+            ]
+        }
+    },
+    "dam": {
+        "full": "dam",
+        "abbrev": {
+            "official": "dm",
+            "common": [
+                "dm",
+                "dam",
+                "dm"
+            ]
+        }
+    },
+    "divide": {
+        "full": "divide",
+        "abbrev": {
+            "official": "dv",
+            "common": [
+                "dv",
+                "div",
+                "divide",
+                "dv",
+                "dvd"
+            ]
+        }
+    },
+    "drive": {
+        "full": "drive",
+        "abbrev": {
+            "official": "dr",
+            "common": [
+                "dr",
+                "dr",
+                "driv",
+                "drive",
+                "drv"
+            ]
+        }
+    },
+    "drives": {
+        "full": "drives",
+        "abbrev": {
+            "official": "drs",
+            "common": [
+                "drs",
+                "drives"
+            ]
+        }
+    },
+    "estate": {
+        "full": "estate",
+        "abbrev": {
+            "official": "est",
+            "common": [
+                "est",
+                "est",
+                "estate"
+            ]
+        }
+    },
+    "estates": {
+        "full": "estates",
+        "abbrev": {
+            "official": "ests",
+            "common": [
+                "ests",
+                "estates",
+                "ests"
+            ]
+        }
+    },
+    "expressway": {
+        "full": "expressway",
+        "abbrev": {
+            "official": "expy",
+            "common": [
+                "expy",
+                "exp",
+                "expr",
+                "express",
+                "expressway",
+                "expw",
+                "expy"
+            ]
+        }
+    },
+    "extension": {
+        "full": "extension",
+        "abbrev": {
+            "official": "ext",
+            "common": [
+                "ext",
+                "ext",
+                "extension",
+                "extn",
+                "extnsn"
+            ]
+        }
+    },
+    "extensions": {
+        "full": "extensions",
+        "abbrev": {
+            "official": "exts",
+            "common": [
+                "exts",
+                "exts"
+            ]
+        }
+    },
+    "fall": {
+        "full": "fall",
+        "abbrev": {
+            "official": "fall",
+            "common": [
+                "fall",
+                "fall"
+            ]
+        }
+    },
+    "falls": {
+        "full": "falls",
+        "abbrev": {
+            "official": "fls",
+            "common": [
+                "fls",
+                "falls",
+                "fls"
+            ]
+        }
+    },
+    "ferry": {
+        "full": "ferry",
+        "abbrev": {
+            "official": "fry",
+            "common": [
+                "fry",
+                "ferry",
+                "frry",
+                "fry"
+            ]
+        }
+    },
+    "field": {
+        "full": "field",
+        "abbrev": {
+            "official": "fld",
+            "common": [
+                "fld",
+                "field",
+                "fld"
+            ]
+        }
+    },
+    "fields": {
+        "full": "fields",
+        "abbrev": {
+            "official": "flds",
+            "common": [
+                "flds",
+                "fields",
+                "flds"
+            ]
+        }
+    },
+    "flat": {
+        "full": "flat",
+        "abbrev": {
+            "official": "flt",
+            "common": [
+                "flt",
+                "flat",
+                "flt"
+            ]
+        }
+    },
+    "flats": {
+        "full": "flats",
+        "abbrev": {
+            "official": "flts",
+            "common": [
+                "flts",
+                "flats",
+                "flts"
+            ]
+        }
+    },
+    "ford": {
+        "full": "ford",
+        "abbrev": {
+            "official": "frd",
+            "common": [
+                "frd",
+                "ford",
+                "frd"
+            ]
+        }
+    },
+    "fords": {
+        "full": "fords",
+        "abbrev": {
+            "official": "frds",
+            "common": [
+                "frds",
+                "fords"
+            ]
+        }
+    },
+    "forest": {
+        "full": "forest",
+        "abbrev": {
+            "official": "frst",
+            "common": [
+                "frst",
+                "forest",
+                "forests",
+                "frst"
+            ]
+        }
+    },
+    "forge": {
+        "full": "forge",
+        "abbrev": {
+            "official": "frg",
+            "common": [
+                "frg",
+                "forg",
+                "forge",
+                "frg"
+            ]
+        }
+    },
+    "forges": {
+        "full": "forges",
+        "abbrev": {
+            "official": "frgs",
+            "common": [
+                "frgs",
+                "forges"
+            ]
+        }
+    },
+    "fork": {
+        "full": "fork",
+        "abbrev": {
+            "official": "frk",
+            "common": [
+                "frk",
+                "fork",
+                "frk"
+            ]
+        }
+    },
+    "forks": {
+        "full": "forks",
+        "abbrev": {
+            "official": "frks",
+            "common": [
+                "frks",
+                "forks",
+                "frks"
+            ]
+        }
+    },
+    "fort": {
+        "full": "fort",
+        "abbrev": {
+            "official": "ft",
+            "common": [
+                "ft",
+                "fort",
+                "frt",
+                "ft"
+            ]
+        }
+    },
+    "freeway": {
+        "full": "freeway",
+        "abbrev": {
+            "official": "fwy",
+            "common": [
+                "fwy",
+                "freeway",
+                "freewy",
+                "frway",
+                "frwy",
+                "fwy"
+            ]
+        }
+    },
+    "garden": {
+        "full": "garden",
+        "abbrev": {
+            "official": "gdn",
+            "common": [
+                "gdn",
+                "garden",
+                "gardn",
+                "grden",
+                "grdn"
+            ]
+        }
+    },
+    "gardens": {
+        "full": "gardens",
+        "abbrev": {
+            "official": "gdns",
+            "common": [
+                "gdns",
+                "gardens",
+                "gdns",
+                "grdns"
+            ]
+        }
+    },
+    "gateway": {
+        "full": "gateway",
+        "abbrev": {
+            "official": "gtwy",
+            "common": [
+                "gtwy",
+                "gateway",
+                "gatewy",
+                "gatway",
+                "gtway",
+                "gtwy"
+            ]
+        }
+    },
+    "glen": {
+        "full": "glen",
+        "abbrev": {
+            "official": "gln",
+            "common": [
+                "gln",
+                "glen",
+                "gln"
+            ]
+        }
+    },
+    "glens": {
+        "full": "glens",
+        "abbrev": {
+            "official": "glns",
+            "common": [
+                "glns",
+                "glens"
+            ]
+        }
+    },
+    "green": {
+        "full": "green",
+        "abbrev": {
+            "official": "grn",
+            "common": [
+                "grn",
+                "green",
+                "grn"
+            ]
+        }
+    },
+    "greens": {
+        "full": "greens",
+        "abbrev": {
+            "official": "grns",
+            "common": [
+                "grns",
+                "greens"
+            ]
+        }
+    },
+    "grove": {
+        "full": "grove",
+        "abbrev": {
+            "official": "grv",
+            "common": [
+                "grv",
+                "grov",
+                "grove",
+                "grv"
+            ]
+        }
+    },
+    "groves": {
+        "full": "groves",
+        "abbrev": {
+            "official": "grvs",
+            "common": [
+                "grvs",
+                "groves"
+            ]
+        }
+    },
+    "harbor": {
+        "full": "harbor",
+        "abbrev": {
+            "official": "hbr",
+            "common": [
+                "hbr",
+                "harb",
+                "harbor",
+                "harbr",
+                "hbr",
+                "hrbor"
+            ]
+        }
+    },
+    "harbors": {
+        "full": "harbors",
+        "abbrev": {
+            "official": "hbrs",
+            "common": [
+                "hbrs",
+                "harbors"
+            ]
+        }
+    },
+    "haven": {
+        "full": "haven",
+        "abbrev": {
+            "official": "hvn",
+            "common": [
+                "hvn",
+                "haven",
+                "hvn"
+            ]
+        }
+    },
+    "heights": {
+        "full": "heights",
+        "abbrev": {
+            "official": "hts",
+            "common": [
+                "hts",
+                "ht",
+                "hts"
+            ]
+        }
+    },
+    "highway": {
+        "full": "highway",
+        "abbrev": {
+            "official": "hwy",
+            "common": [
+                "hwy",
+                "highway",
+                "highwy",
+                "hiway",
+                "hiwy",
+                "hway",
+                "hwy"
+            ]
+        }
+    },
+    "hill": {
+        "full": "hill",
+        "abbrev": {
+            "official": "hl",
+            "common": [
+                "hl",
+                "hill",
+                "hl"
+            ]
+        }
+    },
+    "hills": {
+        "full": "hills",
+        "abbrev": {
+            "official": "hls",
+            "common": [
+                "hls",
+                "hills",
+                "hls"
+            ]
+        }
+    },
+    "hollow": {
+        "full": "hollow",
+        "abbrev": {
+            "official": "holw",
+            "common": [
+                "holw",
+                "hllw",
+                "hollow",
+                "hollows",
+                "holw",
+                "holws"
+            ]
+        }
+    },
+    "inlet": {
+        "full": "inlet",
+        "abbrev": {
+            "official": "inlt",
+            "common": [
+                "inlt",
+                "inlt"
+            ]
+        }
+    },
+    "island": {
+        "full": "island",
+        "abbrev": {
+            "official": "is",
+            "common": [
+                "is",
+                "is",
+                "island",
+                "islnd"
+            ]
+        }
+    },
+    "islands": {
+        "full": "islands",
+        "abbrev": {
+            "official": "iss",
+            "common": [
+                "iss",
+                "islands",
+                "islnds",
+                "iss"
+            ]
+        }
+    },
+    "isle": {
+        "full": "isle",
+        "abbrev": {
+            "official": "isle",
+            "common": [
+                "isle",
+                "isle",
+                "isles"
+            ]
+        }
+    },
+    "junction": {
+        "full": "junction",
+        "abbrev": {
+            "official": "jct",
+            "common": [
+                "jct",
+                "jct",
+                "jction",
+                "jctn",
+                "junction",
+                "junctn",
+                "juncton"
+            ]
+        }
+    },
+    "junctions": {
+        "full": "junctions",
+        "abbrev": {
+            "official": "jcts",
+            "common": [
+                "jcts",
+                "jctns",
+                "jcts",
+                "junctions"
+            ]
+        }
+    },
+    "key": {
+        "full": "key",
+        "abbrev": {
+            "official": "ky",
+            "common": [
+                "ky",
+                "key",
+                "ky"
+            ]
+        }
+    },
+    "keys": {
+        "full": "keys",
+        "abbrev": {
+            "official": "kys",
+            "common": [
+                "kys",
+                "keys",
+                "kys"
+            ]
+        }
+    },
+    "knoll": {
+        "full": "knoll",
+        "abbrev": {
+            "official": "knl",
+            "common": [
+                "knl",
+                "knl",
+                "knol",
+                "knoll"
+            ]
+        }
+    },
+    "knolls": {
+        "full": "knolls",
+        "abbrev": {
+            "official": "knls",
+            "common": [
+                "knls",
+                "knls",
+                "knolls"
+            ]
+        }
+    },
+    "lake": {
+        "full": "lake",
+        "abbrev": {
+            "official": "lk",
+            "common": [
+                "lk",
+                "lk",
+                "lake"
+            ]
+        }
+    },
+    "lakes": {
+        "full": "lakes",
+        "abbrev": {
+            "official": "lks",
+            "common": [
+                "lks",
+                "lks",
+                "lakes"
+            ]
+        }
+    },
+    "land": {
+        "full": "land",
+        "abbrev": {
+            "official": "land",
+            "common": [
+                "land",
+                "land"
+            ]
+        }
+    },
+    "landing": {
+        "full": "landing",
+        "abbrev": {
+            "official": "lndg",
+            "common": [
+                "lndg",
+                "landing",
+                "lndg",
+                "lndng"
+            ]
+        }
+    },
+    "lane": {
+        "full": "lane",
+        "abbrev": {
+            "official": "ln",
+            "common": [
+                "ln",
+                "lane",
+                "ln"
+            ]
+        }
+    },
+    "light": {
+        "full": "light",
+        "abbrev": {
+            "official": "lgt",
+            "common": [
+                "lgt",
+                "lgt",
+                "light"
+            ]
+        }
+    },
+    "lights": {
+        "full": "lights",
+        "abbrev": {
+            "official": "lgts",
+            "common": [
+                "lgts",
+                "lights"
+            ]
+        }
+    },
+    "loaf": {
+        "full": "loaf",
+        "abbrev": {
+            "official": "lf",
+            "common": [
+                "lf",
+                "lf",
+                "loaf"
+            ]
+        }
+    },
+    "lock": {
+        "full": "lock",
+        "abbrev": {
+            "official": "lck",
+            "common": [
+                "lck",
+                "lck",
+                "lock"
+            ]
+        }
+    },
+    "locks": {
+        "full": "locks",
+        "abbrev": {
+            "official": "lcks",
+            "common": [
+                "lcks",
+                "lcks",
+                "locks"
+            ]
+        }
+    },
+    "lodge": {
+        "full": "lodge",
+        "abbrev": {
+            "official": "ldg",
+            "common": [
+                "ldg",
+                "ldg",
+                "ldge",
+                "lodg",
+                "lodge"
+            ]
+        }
+    },
+    "loop": {
+        "full": "loop",
+        "abbrev": {
+            "official": "loop",
+            "common": [
+                "loop",
+                "loop",
+                "loops"
+            ]
+        }
+    },
+    "mall": {
+        "full": "mall",
+        "abbrev": {
+            "official": "mall",
+            "common": [
+                "mall",
+                "mall"
+            ]
+        }
+    },
+    "manor": {
+        "full": "manor",
+        "abbrev": {
+            "official": "mnr",
+            "common": [
+                "mnr",
+                "mnr",
+                "manor"
+            ]
+        }
+    },
+    "manors": {
+        "full": "manors",
+        "abbrev": {
+            "official": "mnrs",
+            "common": [
+                "mnrs",
+                "manors",
+                "mnrs"
+            ]
+        }
+    },
+    "meadow": {
+        "full": "meadow",
+        "abbrev": {
+            "official": "mdw",
+            "common": [
+                "mdw",
+                "meadow"
+            ]
+        }
+    },
+    "meadows": {
+        "full": "meadows",
+        "abbrev": {
+            "official": "mdws",
+            "common": [
+                "mdws",
+                "mdw",
+                "mdws",
+                "meadows",
+                "medows"
+            ]
+        }
+    },
+    "mews": {
+        "full": "mews",
+        "abbrev": {
+            "official": "mews",
+            "common": [
+                "mews",
+                "mews"
+            ]
+        }
+    },
+    "mill": {
+        "full": "mill",
+        "abbrev": {
+            "official": "ml",
+            "common": [
+                "ml",
+                "mill"
+            ]
+        }
+    },
+    "mills": {
+        "full": "mills",
+        "abbrev": {
+            "official": "mls",
+            "common": [
+                "mls",
+                "mills"
+            ]
+        }
+    },
+    "mission": {
+        "full": "mission",
+        "abbrev": {
+            "official": "msn",
+            "common": [
+                "msn",
+                "missn",
+                "mssn"
+            ]
+        }
+    },
+    "motorway": {
+        "full": "motorway",
+        "abbrev": {
+            "official": "mtwy",
+            "common": [
+                "mtwy",
+                "motorway"
+            ]
+        }
+    },
+    "mount": {
+        "full": "mount",
+        "abbrev": {
+            "official": "mt",
+            "common": [
+                "mt",
+                "mnt",
+                "mt",
+                "mount"
+            ]
+        }
+    },
+    "mountain": {
+        "full": "mountain",
+        "abbrev": {
+            "official": "mtn",
+            "common": [
+                "mtn",
+                "mntain",
+                "mntn",
+                "mountain",
+                "mountin",
+                "mtin",
+                "mtn"
+            ]
+        }
+    },
+    "mountains": {
+        "full": "mountains",
+        "abbrev": {
+            "official": "mtns",
+            "common": [
+                "mtns",
+                "mntns",
+                "mountains"
+            ]
+        }
+    },
+    "neck": {
+        "full": "neck",
+        "abbrev": {
+            "official": "nck",
+            "common": [
+                "nck",
+                "nck",
+                "neck"
+            ]
+        }
+    },
+    "orchard": {
+        "full": "orchard",
+        "abbrev": {
+            "official": "orch",
+            "common": [
+                "orch",
+                "orch",
+                "orchard",
+                "orchrd"
+            ]
+        }
+    },
+    "oval": {
+        "full": "oval",
+        "abbrev": {
+            "official": "oval",
+            "common": [
+                "oval",
+                "oval",
+                "ovl"
+            ]
+        }
+    },
+    "overpass": {
+        "full": "overpass",
+        "abbrev": {
+            "official": "opas",
+            "common": [
+                "opas",
+                "overpass"
+            ]
+        }
+    },
+    "park": {
+        "full": "park",
+        "abbrev": {
+            "official": "park",
+            "common": [
+                "park",
+                "park",
+                "prk"
+            ]
+        }
+    },
+    "parks": {
+        "full": "parks",
+        "abbrev": {
+            "official": "park",
+            "common": [
+                "park",
+                "parks"
+            ]
+        }
+    },
+    "parkway": {
+        "full": "parkway",
+        "abbrev": {
+            "official": "pkwy",
+            "common": [
+                "pkwy",
+                "parkway",
+                "parkwy",
+                "pkway",
+                "pkwy",
+                "pky"
+            ]
+        }
+    },
+    "parkways": {
+        "full": "parkways",
+        "abbrev": {
+            "official": "pkwy",
+            "common": [
+                "pkwy",
+                "parkways",
+                "pkwys"
+            ]
+        }
+    },
+    "pass": {
+        "full": "pass",
+        "abbrev": {
+            "official": "pass",
+            "common": [
+                "pass",
+                "pass"
+            ]
+        }
+    },
+    "passage": {
+        "full": "passage",
+        "abbrev": {
+            "official": "psge",
+            "common": [
+                "psge",
+                "passage"
+            ]
+        }
+    },
+    "path": {
+        "full": "path",
+        "abbrev": {
+            "official": "path",
+            "common": [
+                "path",
+                "path",
+                "paths"
+            ]
+        }
+    },
+    "pike": {
+        "full": "pike",
+        "abbrev": {
+            "official": "pike",
+            "common": [
+                "pike",
+                "pike",
+                "pikes"
+            ]
+        }
+    },
+    "pine": {
+        "full": "pine",
+        "abbrev": {
+            "official": "pne",
+            "common": [
+                "pne",
+                "pine"
+            ]
+        }
+    },
+    "pines": {
+        "full": "pines",
+        "abbrev": {
+            "official": "pnes",
+            "common": [
+                "pnes",
+                "pines",
+                "pnes"
+            ]
+        }
+    },
+    "place": {
+        "full": "place",
+        "abbrev": {
+            "official": "pl",
+            "common": [
+                "pl",
+                "pl"
+            ]
+        }
+    },
+    "plain": {
+        "full": "plain",
+        "abbrev": {
+            "official": "pln",
+            "common": [
+                "pln",
+                "plain",
+                "pln"
+            ]
+        }
+    },
+    "plains": {
+        "full": "plains",
+        "abbrev": {
+            "official": "plns",
+            "common": [
+                "plns",
+                "plains",
+                "plns"
+            ]
+        }
+    },
+    "plaza": {
+        "full": "plaza",
+        "abbrev": {
+            "official": "plz",
+            "common": [
+                "plz",
+                "plaza",
+                "plz",
+                "plza"
+            ]
+        }
+    },
+    "point": {
+        "full": "point",
+        "abbrev": {
+            "official": "pt",
+            "common": [
+                "pt",
+                "point",
+                "pt"
+            ]
+        }
+    },
+    "points": {
+        "full": "points",
+        "abbrev": {
+            "official": "pts",
+            "common": [
+                "pts",
+                "points",
+                "pts"
+            ]
+        }
+    },
+    "port": {
+        "full": "port",
+        "abbrev": {
+            "official": "prt",
+            "common": [
+                "prt",
+                "port",
+                "prt"
+            ]
+        }
+    },
+    "ports": {
+        "full": "ports",
+        "abbrev": {
+            "official": "prts",
+            "common": [
+                "prts",
+                "ports",
+                "prts"
+            ]
+        }
+    },
+    "prairie": {
+        "full": "prairie",
+        "abbrev": {
+            "official": "pr",
+            "common": [
+                "pr",
+                "pr",
+                "prairie",
+                "prr"
+            ]
+        }
+    },
+    "radial": {
+        "full": "radial",
+        "abbrev": {
+            "official": "radl",
+            "common": [
+                "radl",
+                "rad",
+                "radial",
+                "radiel",
+                "radl"
+            ]
+        }
+    },
+    "ramp": {
+        "full": "ramp",
+        "abbrev": {
+            "official": "ramp",
+            "common": [
+                "ramp",
+                "ramp"
+            ]
+        }
+    },
+    "ranch": {
+        "full": "ranch",
+        "abbrev": {
+            "official": "rnch",
+            "common": [
+                "rnch",
+                "ranch",
+                "ranches",
+                "rnch",
+                "rnchs"
+            ]
+        }
+    },
+    "rapid": {
+        "full": "rapid",
+        "abbrev": {
+            "official": "rpd",
+            "common": [
+                "rpd",
+                "rapid",
+                "rpd"
+            ]
+        }
+    },
+    "rapids": {
+        "full": "rapids",
+        "abbrev": {
+            "official": "rpds",
+            "common": [
+                "rpds",
+                "rapids",
+                "rpds"
+            ]
+        }
+    },
+    "rest": {
+        "full": "rest",
+        "abbrev": {
+            "official": "rst",
+            "common": [
+                "rst",
+                "rest",
+                "rst"
+            ]
+        }
+    },
+    "ridge": {
+        "full": "ridge",
+        "abbrev": {
+            "official": "rdg",
+            "common": [
+                "rdg",
+                "rdg",
+                "rdge",
+                "ridge"
+            ]
+        }
+    },
+    "ridges": {
+        "full": "ridges",
+        "abbrev": {
+            "official": "rdgs",
+            "common": [
+                "rdgs",
+                "rdgs",
+                "ridges"
+            ]
+        }
+    },
+    "river": {
+        "full": "river",
+        "abbrev": {
+            "official": "riv",
+            "common": [
+                "riv",
+                "riv",
+                "river",
+                "rvr",
+                "rivr"
+            ]
+        }
+    },
+    "road": {
+        "full": "road",
+        "abbrev": {
+            "official": "rd",
+            "common": [
+                "rd",
+                "rd",
+                "road"
+            ]
+        }
+    },
+    "roads": {
+        "full": "roads",
+        "abbrev": {
+            "official": "rds",
+            "common": [
+                "rds",
+                "roads",
+                "rds"
+            ]
+        }
+    },
+    "route": {
+        "full": "route",
+        "abbrev": {
+            "official": "rte",
+            "common": [
+                "rte",
+                "route"
+            ]
+        }
+    },
+    "row": {
+        "full": "row",
+        "abbrev": {
+            "official": "row",
+            "common": [
+                "row",
+                "row"
+            ]
+        }
+    },
+    "rue": {
+        "full": "rue",
+        "abbrev": {
+            "official": "rue",
+            "common": [
+                "rue",
+                "rue"
+            ]
+        }
+    },
+    "run": {
+        "full": "run",
+        "abbrev": {
+            "official": "run",
+            "common": [
+                "run",
+                "run"
+            ]
+        }
+    },
+    "shoal": {
+        "full": "shoal",
+        "abbrev": {
+            "official": "shl",
+            "common": [
+                "shl",
+                "shl",
+                "shoal"
+            ]
+        }
+    },
+    "shoals": {
+        "full": "shoals",
+        "abbrev": {
+            "official": "shls",
+            "common": [
+                "shls",
+                "shls",
+                "shoals"
+            ]
+        }
+    },
+    "shore": {
+        "full": "shore",
+        "abbrev": {
+            "official": "shr",
+            "common": [
+                "shr",
+                "shoar",
+                "shore",
+                "shr"
+            ]
+        }
+    },
+    "shores": {
+        "full": "shores",
+        "abbrev": {
+            "official": "shrs",
+            "common": [
+                "shrs",
+                "shoars",
+                "shores",
+                "shrs"
+            ]
+        }
+    },
+    "skyway": {
+        "full": "skyway",
+        "abbrev": {
+            "official": "skwy",
+            "common": [
+                "skwy",
+                "skyway"
+            ]
+        }
+    },
+    "spring": {
+        "full": "spring",
+        "abbrev": {
+            "official": "spg",
+            "common": [
+                "spg",
+                "spg",
+                "spng",
+                "spring",
+                "sprng"
+            ]
+        }
+    },
+    "springs": {
+        "full": "springs",
+        "abbrev": {
+            "official": "spgs",
+            "common": [
+                "spgs",
+                "spgs",
+                "spngs",
+                "springs",
+                "sprngs"
+            ]
+        }
+    },
+    "spur": {
+        "full": "spur",
+        "abbrev": {
+            "official": "spur",
+            "common": [
+                "spur",
+                "spur"
+            ]
+        }
+    },
+    "spurs": {
+        "full": "spurs",
+        "abbrev": {
+            "official": "spur",
+            "common": [
+                "spur",
+                "spurs"
+            ]
+        }
+    },
+    "square": {
+        "full": "square",
+        "abbrev": {
+            "official": "sq",
+            "common": [
+                "sq",
+                "sq",
+                "sqr",
+                "sqre",
+                "squ",
+                "square"
+            ]
+        }
+    },
+    "squares": {
+        "full": "squares",
+        "abbrev": {
+            "official": "sqs",
+            "common": [
+                "sqs",
+                "sqrs",
+                "squares"
+            ]
+        }
+    },
+    "station": {
+        "full": "station",
+        "abbrev": {
+            "official": "sta",
+            "common": [
+                "sta",
+                "sta",
+                "station",
+                "statn",
+                "stn"
+            ]
+        }
+    },
+    "stravenue": {
+        "full": "stravenue",
+        "abbrev": {
+            "official": "stra",
+            "common": [
+                "stra",
+                "stra",
+                "strav",
+                "straven",
+                "stravenue",
+                "stravn",
+                "strvn",
+                "strvnue"
+            ]
+        }
+    },
+    "stream": {
+        "full": "stream",
+        "abbrev": {
+            "official": "strm",
+            "common": [
+                "strm",
+                "stream",
+                "streme",
+                "strm"
+            ]
+        }
+    },
+    "street": {
+        "full": "street",
+        "abbrev": {
+            "official": "st",
+            "common": [
+                "st",
+                "street",
+                "strt",
+                "st",
+                "str"
+            ]
+        }
+    },
+    "streets": {
+        "full": "streets",
+        "abbrev": {
+            "official": "sts",
+            "common": [
+                "sts",
+                "streets"
+            ]
+        }
+    },
+    "summit": {
+        "full": "summit",
+        "abbrev": {
+            "official": "smt",
+            "common": [
+                "smt",
+                "smt",
+                "sumit",
+                "sumitt",
+                "summit"
+            ]
+        }
+    },
+    "terrace": {
+        "full": "terrace",
+        "abbrev": {
+            "official": "ter",
+            "common": [
+                "ter",
+                "ter",
+                "terr",
+                "terrace"
+            ]
+        }
+    },
+    "throughway": {
+        "full": "throughway",
+        "abbrev": {
+            "official": "trwy",
+            "common": [
+                "trwy",
+                "throughway"
+            ]
+        }
+    },
+    "trace": {
+        "full": "trace",
+        "abbrev": {
+            "official": "trce",
+            "common": [
+                "trce",
+                "trace",
+                "traces",
+                "trce"
+            ]
+        }
+    },
+    "track": {
+        "full": "track",
+        "abbrev": {
+            "official": "trak",
+            "common": [
+                "trak",
+                "track",
+                "tracks",
+                "trak",
+                "trk",
+                "trks"
+            ]
+        }
+    },
+    "trafficway": {
+        "full": "trafficway",
+        "abbrev": {
+            "official": "trfy",
+            "common": [
+                "trfy",
+                "trafficway"
+            ]
+        }
+    },
+    "trail": {
+        "full": "trail",
+        "abbrev": {
+            "official": "trl",
+            "common": [
+                "trl",
+                "trail",
+                "trails",
+                "trl",
+                "trls"
+            ]
+        }
+    },
+    "trailer": {
+        "full": "trailer",
+        "abbrev": {
+            "official": "trlr",
+            "common": [
+                "trlr",
+                "trailer",
+                "trlr",
+                "trlrs"
+            ]
+        }
+    },
+    "tunnel": {
+        "full": "tunnel",
+        "abbrev": {
+            "official": "tunl",
+            "common": [
+                "tunl",
+                "tunel",
+                "tunl",
+                "tunls",
+                "tunnel",
+                "tunnels",
+                "tunnl"
+            ]
+        }
+    },
+    "turnpike": {
+        "full": "turnpike",
+        "abbrev": {
+            "official": "tpke",
+            "common": [
+                "tpke",
+                "trnpk",
+                "turnpike",
+                "turnpk"
+            ]
+        }
+    },
+    "underpass": {
+        "full": "underpass",
+        "abbrev": {
+            "official": "upas",
+            "common": [
+                "upas",
+                "underpass"
+            ]
+        }
+    },
+    "union": {
+        "full": "union",
+        "abbrev": {
+            "official": "un",
+            "common": [
+                "un",
+                "un",
+                "union"
+            ]
+        }
+    },
+    "unions": {
+        "full": "unions",
+        "abbrev": {
+            "official": "uns",
+            "common": [
+                "uns",
+                "unions"
+            ]
+        }
+    },
+    "valley": {
+        "full": "valley",
+        "abbrev": {
+            "official": "vly",
+            "common": [
+                "vly",
+                "valley",
+                "vally",
+                "vlly",
+                "vly"
+            ]
+        }
+    },
+    "valleys": {
+        "full": "valleys",
+        "abbrev": {
+            "official": "vlys",
+            "common": [
+                "vlys",
+                "valleys",
+                "vlys"
+            ]
+        }
+    },
+    "viaduct": {
+        "full": "viaduct",
+        "abbrev": {
+            "official": "via",
+            "common": [
+                "via",
+                "vdct",
+                "via",
+                "viadct",
+                "viaduct"
+            ]
+        }
+    },
+    "view": {
+        "full": "view",
+        "abbrev": {
+            "official": "vw",
+            "common": [
+                "vw",
+                "view",
+                "vw"
+            ]
+        }
+    },
+    "views": {
+        "full": "views",
+        "abbrev": {
+            "official": "vws",
+            "common": [
+                "vws",
+                "views",
+                "vws"
+            ]
+        }
+    },
+    "village": {
+        "full": "village",
+        "abbrev": {
+            "official": "vlg",
+            "common": [
+                "vlg",
+                "vill",
+                "villag",
+                "village",
+                "villg",
+                "villiage",
+                "vlg"
+            ]
+        }
+    },
+    "villages": {
+        "full": "villages",
+        "abbrev": {
+            "official": "vlgs",
+            "common": [
+                "vlgs",
+                "villages",
+                "vlgs"
+            ]
+        }
+    },
+    "ville": {
+        "full": "ville",
+        "abbrev": {
+            "official": "vl",
+            "common": [
+                "vl",
+                "ville",
+                "vl"
+            ]
+        }
+    },
+    "vista": {
+        "full": "vista",
+        "abbrev": {
+            "official": "vis",
+            "common": [
+                "vis",
+                "vis",
+                "vist",
+                "vista",
+                "vst",
+                "vsta"
+            ]
+        }
+    },
+    "walk": {
+        "full": "walk",
+        "abbrev": {
+            "official": "walk",
+            "common": [
+                "walk",
+                "walk"
+            ]
+        }
+    },
+    "walks": {
+        "full": "walks",
+        "abbrev": {
+            "official": "walk",
+            "common": [
+                "walk",
+                "walks"
+            ]
+        }
+    },
+    "wall": {
+        "full": "wall",
+        "abbrev": {
+            "official": "wall",
+            "common": [
+                "wall",
+                "wall"
+            ]
+        }
+    },
+    "way": {
+        "full": "way",
+        "abbrev": {
+            "official": "way",
+            "common": [
+                "way",
+                "wy",
+                "way"
+            ]
+        }
+    },
+    "ways": {
+        "full": "ways",
+        "abbrev": {
+            "official": "ways",
+            "common": [
+                "ways",
+                "ways"
+            ]
+        }
+    },
+    "well": {
+        "full": "well",
+        "abbrev": {
+            "official": "wl",
+            "common": [
+                "wl",
+                "well"
+            ]
+        }
+    },
+    "wells": {
+        "full": "wells",
+        "abbrev": {
+            "official": "wls",
+            "common": [
+                "wls",
+                "wells",
+                "wls"
+            ]
+        }
+    }
+}
