@@ -11,8 +11,10 @@ Creating a geocoding index from your GIS data?  Look in here.
 
 from collections import defaultdict
 from enum import Enum
-from typing import Dict
+from typing import Any, Dict, Iterable
+from postal.expand import expand_address
 import usaddress
+from.normalizers import directionals
 
 
 class AddressTypes(Enum):
@@ -109,25 +111,33 @@ class Details(Enum):
     SecondStreetNamePostDirectional = 'SecondStreetNamePostDirectional'
 
 
-class IntersectionDetails(Enum):
-    """These are address details particular to intersections."""
-    SecondStreetName = Details.SecondStreetName
-    SecondStreetNamePreDirectional = Details.SecondStreetNamePostDirectional
-    SecondStreetNamePostType = Details.SecondStreetNamePostType
-    SecondStreetNamePostDirectional = Details.SecondStreetNamePostDirectional
+INTERSECTION_DETAILS = {
+    Details.SecondStreetName,
+    Details.SecondStreetNamePostDirectional,
+    Details.SecondStreetNamePostType,
+    Details.SecondStreetNamePostDirectional
+}  #: a set of :py:class:`Details` values specific to intersections
+
+DIRECTIONAL_DETAILS = {
+    Details.StreetNamePreDirectional,
+    Details.StreetNamePostDirectional,
+    Details.SecondStreetNamePreDirectional,
+    Details.SecondStreetNamePostDirectional
+}  #: a set of :py:class:`Details` values that indicate directions
+
+
+def is_directional(detail: Details):
+    return detail in DIRECTIONAL_DETAILS
 
 
 class ParseResult:
     """The result of a `usaddress` parse operation."""
     def __init__(self,
                  address_type: AddressTypes,
-                 **details):
+                 details: Dict[Details, Any]):
         self._address_type: AddressTypes = address_type
         self._details: Dict[Details, str] = defaultdict(
-            lambda: None,
-            {
-                Details(k): str(v).lower() for k, v in details.items()
-            }
+            lambda: None, details
         )  #: a dictionary of the details
 
     def address_type(self) -> AddressTypes:
@@ -156,12 +166,39 @@ class ParseResult:
         )
 
 
+def expand(address: str) -> Iterable[str]:
+    expands = set()
+    for _expand in expand_address(address):
+        # TODO: Eliminate near-duplicates.
+        expands.add(_expand)
+    return expands
+
+
 def parse(address: str) -> ParseResult:
     """Parse an address."""
-    parsed = usaddress.tag(address)
+    _usaddress = usaddress.tag(address)
+
+    details = {
+        Details(k): v for k, v in _usaddress[0].items()
+    }
+
+    dir_details = {
+        k: directionals.normalize(v)
+        for k, v in details.items()
+        if is_directional(k)
+    }
+
     return ParseResult(
-        address_type=AddressTypes(parsed[1]),
-        **{
-            k: v for k, v in parsed[0].items()
+        address_type=AddressTypes(_usaddress[1]),
+        details={
+            **details,
+            **dir_details
         }
     )
+
+# PYPOSTAL:  https://github.com/openvenues/pypostal
+
+# https://ispmarin.github.io/python-nltk/
+
+# https://pypi.org/project/address/
+# https://github.com/SwoopSearch/pyaddress

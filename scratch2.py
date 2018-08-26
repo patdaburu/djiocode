@@ -9,7 +9,18 @@
 This module needs a description.
 """
 from djiocode.us.usaddress import parse
+from djiocode.us.normalizers import directionals
 
-parsed = parse('123 main street, emeryville, california')
+#parsed = parse('123 main street, emeryville, california')
 
-print(parsed)
+# for p in parse('123 main street, emeryville, california'):
+#     print(p)
+
+
+
+p =parse('123 N Main st. Southwest, emeryville, california')
+print(p)
+
+
+print(directionals.normalize('South-West'))
+print(directionals.normalize('north east'))
