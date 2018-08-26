@@ -54,6 +54,8 @@ def _apply(path: Path,
     for idx, fid in enumerate(_fids):
         feature: ogr.Feature = layer.GetFeature(fid)
         outputs[idx] = func(feature)
+    # Clean up.
+    ds.Destroy()
     # Return what we got.
     return outputs
 
@@ -137,3 +139,5 @@ def apply(
         pool.close()  #: TODO... can we use the same pool?
         # Wait.
         pool.join()
+    # Clean up.
+    ds.Destroy()

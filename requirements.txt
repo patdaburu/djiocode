@@ -1,3 +1,4 @@
+CaseInsensitiveDict==1.0.0
 click>=6.7,<7
 GDAL==2.2.3
 mock>=2.0.0,<3

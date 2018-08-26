@@ -79,7 +79,7 @@ def getfiddo(feature: Feature) -> int:
 
 
 for i in range(1, 100):
-    results = list(apply(path=path, func=getfiddo))
+    results = set(apply(path=path, func=getfiddo))
     for result in results:
         print(result)
 

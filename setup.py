@@ -39,6 +39,7 @@ setup(
     # Here are a couple of examples...
     # 'numpy>=1.13.3,<2',
     # 'measurement>=1.8.0,<2'
+    'CaseInsensitiveDict==1.0.0',
     'click>=6.7,<7',
     'GDAL==2.2.3',
     'numpy>=1.15.1,<2',

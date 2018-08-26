@@ -8,3 +8,7 @@
 
 GeoAlchemy modes for the geocoding indices.
 """
+
+#https://gist.github.com/filipkral/00d38ba761f72289b0df
+
+# https://geoalchemy-2.readthedocs.io/en/latest/spatialite_tutorial.html
